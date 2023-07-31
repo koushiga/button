@@ -1,0 +1,65 @@
+.pri_btn{
+	color:white;
+	background-color:#0f6eef;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+	text-decoration:none;
+	cursor:default;
+}
+.sec_btn{
+	color:white;
+	background-color:#6a747e;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.scs_btn{
+	color:white;
+	background-color:#1b8455;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.dan_btn{
+    color:white;
+	background-color:#e33248;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.war_btn{
+    color:black;
+	background-color:#fec00b;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}	
+.in_btn{
+    color:black;
+	background-color:#0bcaf1;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.lig_btn{
+    color:black;
+	background-color:#f7f8fa;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.dar_btn{
+    color:white;
+	background-color:#21262a;
+	padding:12px 12px;
+	border:none;
+	border-radius:5px;
+}
+.link{
+	border:none;
+	background-color:transparent;
+	text-decoration:underline;
+	color:blue;
+	cursor:pointer;
+}
